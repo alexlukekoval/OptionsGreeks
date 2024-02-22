@@ -7,5 +7,5 @@ In the money call option:
 
 
 
-Out of money put option:  
+Out of the money put option:  
 ![Out of money put](https://raw.githubusercontent.com/alexlukekoval/OptionsGreeks/main/out_of_money_put.png)
