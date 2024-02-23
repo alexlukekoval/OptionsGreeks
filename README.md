@@ -18,3 +18,8 @@ Just in the money:
 
 7.30 - 8am expiry:  
 ![put ](https://raw.githubusercontent.com/alexlukekoval/OptionsGreeks/main/just_in_the_money_put_6am.png)
+
+
+mark_price with bid and ask:
+![options](https://raw.githubusercontent.com/alexlukekoval/OptionsGreeks/main/mark_price.png)
+
