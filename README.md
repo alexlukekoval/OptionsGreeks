@@ -9,3 +9,12 @@ In the money call option:
 
 Out of the money put option:  
 ![Out of money put ](https://raw.githubusercontent.com/alexlukekoval/OptionsGreeks/main/out_of_money_put2.png)
+
+
+
+Just in the money:  
+![put ](https://raw.githubusercontent.com/alexlukekoval/OptionsGreeks/main/just_in_the_money_put.png)
+
+
+7.30 - 8am expiry:  
+![put ](https://raw.githubusercontent.com/alexlukekoval/OptionsGreeks/main/just_in_the_money_put_6am.png)
